@@ -1,7 +1,7 @@
 {
   "name": "webpocket",
   "version": "1.0.0",
-  "description": "A npm package to test Backend for WebSocket Connections",
+  "description": "A npm package to test Server with WebSocket Connections",
   "main": "bin/index.js",
   "bin": {
     "wp": "./bin/index.js"

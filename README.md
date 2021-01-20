@@ -67,3 +67,12 @@ After you are connected to a server, you will get option to either send a messag
 You don't have to listen to events, the tool will listen to events and messages that are emitted by the server and display them on the command line.
 
 In case any error occurs or the server get's disconnected, then appropriate error messages will be displayed.
+
+
+## Author
+
+Prashant Pandey - Initial work
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
