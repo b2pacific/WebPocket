@@ -50,13 +50,13 @@ wp --help
 To display all the commands for this package
 
 ```
-wp socket --url="http:localhost:3000"
+wp socket --url="http://localhost:3000"
 ```
 
 To connect to a Socket.io Server running on localhost:3000
 
 ```
-wp ws --url="http:localhost:3000"
+wp ws --url="http://localhost:3000"
 ```
 
 To connect to a WebSocket Server running on localhost:3000
