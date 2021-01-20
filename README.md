@@ -69,9 +69,17 @@ You don't have to listen to events, the tool will listen to events and messages 
 In case any error occurs or the server get's disconnected, then appropriate error messages will be displayed.
 
 
+## Built With
+
+* yargs
+* inquirer
+* chalk
+* socket.io-client
+* websocket
+
 ## Author
 
-Prashant Pandey - Initial work
+Prashant Pandey - Initial work - <a href="https://github.com/b2pacific">b2pacific</a>
 
 ## License
 
