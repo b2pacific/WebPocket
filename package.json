@@ -1,11 +1,16 @@
 {
   "name": "webpocket",
-  "version": "1.0.0",
-  "description": "A npm package to test Server with WebSocket Connections",
+  "version": "1.0.1",
+  "description": "A npm package to test WebSocket and Socket.io Connections with a server",
   "main": "bin/index.js",
   "bin": {
     "wp": "./bin/index.js"
   },
+  "keywords": [
+    "websockets",
+    "cli",
+    "socket.io"
+  ],
   "homepage": "https://github.com/b2pacific/WebPocket",
   "bugs": {
     "url": "https://github.com/b2pacific/WebPocket/issues",
